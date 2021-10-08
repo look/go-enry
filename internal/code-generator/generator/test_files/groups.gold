@@ -10,6 +10,7 @@ var LanguagesGroup = map[string]string{
 	"Bison":                          "Yacc",
 	"C2hs Haskell":                   "Haskell",
 	"ColdFusion CFC":                 "ColdFusion",
+	"Cython":                         "Python",
 	"ECLiPSe":                        "prolog",
 	"Easybuild":                      "Python",
 	"Ecere Projects":                 "JavaScript",

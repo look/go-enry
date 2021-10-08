@@ -1508,7 +1508,7 @@ var ContentHeuristics = map[string]*Heuristics{
 	},
 	".vba": &Heuristics{
 		rule.Or(
-			rule.MatchingLanguages("Vim script"),
+			rule.MatchingLanguages("Vim Script"),
 			regexp.MustCompile(`(?m)^UseVimball`),
 		),
 		rule.Always(

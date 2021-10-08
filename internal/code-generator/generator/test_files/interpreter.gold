@@ -37,7 +37,6 @@ var LanguagesByInterpreter = map[string][]string{
 	"ecl":         {"Common Lisp"},
 	"elixir":      {"Elixir"},
 	"escript":     {"Erlang"},
-	"fennel":      {"Fennel"},
 	"fish":        {"fish"},
 	"gawk":        {"Awk"},
 	"gerbv":       {"Gerber Image"},

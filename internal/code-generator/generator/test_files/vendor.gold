@@ -170,4 +170,5 @@ var VendorMatchers = []regex.EnryRegexp{
 	regex.MustCompile(`(^|/)puphpet/`),
 	regex.MustCompile(`(^|/)\.google_apis/`),
 	regex.MustCompile(`(^|/)Jenkinsfile$`),
+	regex.MustCompile(`(^|/)\.gitpod\.Dockerfile$`),
 }

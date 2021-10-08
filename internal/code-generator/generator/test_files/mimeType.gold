@@ -106,6 +106,7 @@ var LanguagesMime = map[string]string{
 	"Java Server Pages":              "application/x-jsp",
 	"JavaScript":                     "text/javascript",
 	"JavaScript+ERB":                 "application/javascript",
+	"Jest Snapshot":                  "application/javascript",
 	"Jinja":                          "text/x-django",
 	"Julia":                          "text/x-julia",
 	"Jupyter Notebook":               "application/json",
